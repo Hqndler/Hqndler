@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello there 👋
+
+### I'm Eric, student at 42 Paris
+
+- Currently looking for an internship
+
+- I mainly code in Python and C
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hqndler&show_icons=true&locale=en&layout=compact" alt="never trust a graph generate by vercel" /></p>
+
+<i>I still use git checkout to switch branch.
 
 <!--
 **Hqndler/Hqndler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
