@@ -6,7 +6,7 @@
 
 - I mainly code in Python and C
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hqndler&show_icons=true&locale=en&layout=compact&theme=transparent&hide=html,css,makefile,dockerfile,shell&count_weight=0.5&size_weight=0.5" alt="never trust a graph generate by vercel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hqndler&show_icons=true&locale=en&layout=compact&hide=html,css,makefile,dockerfile,shell&count_weight=0.5&size_weight=0.5&theme=tokyonight" alt="never trust a graph generate by vercel" /></p>
 
 <i>I still use git checkout to switch branch.
 
