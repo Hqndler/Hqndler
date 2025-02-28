@@ -6,9 +6,11 @@
 
 - I mainly code in Python and C
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hqndler&show_icons=true&locale=en&layout=compact" alt="never trust a graph generate by vercel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hqndler&show_icons=true&locale=en&layout=compact&theme=transparent&hide=html,css,makefile,dockerfile,shell" alt="never trust a graph generate by vercel" /></p>
 
 <i>I still use git checkout to switch branch.
+
+# 
 
 ![snake](https://github.com/Hqndler/Hqndler/blob/output/github-contribution-grid-snake-dark.svg)
 
